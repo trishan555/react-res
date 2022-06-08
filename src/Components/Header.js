@@ -80,8 +80,8 @@ const Header = ({ data }) => {
             <ul>When people fall sick, they tend to search for medical services which are necessary for their well-being. The medical services provided in the central dispensary which a patient receives include testing or diagnosis and then the administering of relevant drugs.</ul>
             <h3 style={{fontWeight :"bolder"}}>Guidance and Counselling</h3>
             <ul>At Central Dispensary, all of our treatment plans and routines are designed with the goal of restoring a full range of motion. We provide the roadmap that shows you how we will get you out of pain and guide you to where you want to be.</ul>
-            <h3 style={{fontWeight :"bolder"}}>Medical Check-Up</h3>
-            <ul>It is not every time a person visits the  our dispensary that they require medical assistance. Today, most people visit our Central dispensary for medical checkups. The check-ups are meant to keep a regular tab on the health progress of the patient. They are essential in the prevention of diseases transforming from a bad situation to a worse one.</ul>
+            {/* <h3 style={{fontWeight :"bolder"}}>Medical Check-Up</h3>
+            <ul>It is not every time a person visits the  our dispensary that they require medical assistance. Today, most people visit our Central dispensary for medical checkups. The check-ups are meant to keep a regular tab on the health progress of the patient. They are essential in the prevention of diseases transforming from a bad situation to a worse one.</ul> */}
 
         
           <ul className="social">{networks}</ul>
